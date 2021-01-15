@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 
 ### Hi, there! I'm Myeongji
 
+
 ## I'm a Back-end Developer 👩‍💻
-🔭 I’m currently working on [PCN](http://uithink.pcninc.co.kr:8082/), in Korea.
-🌱 I'm currently learning AWS, Node.js, Android and of course Java improvements.
+* 🔭 I’m currently working on [PCN](http://uithink.pcninc.co.kr:8082/), in Korea.
+* 🌱 I'm currently learning AWS, Node.js, Android and of course Java improvements.
 
 
-## Languae and Tools ⛏
+### Languae and Tools ⛏
 <p>
 <img src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1610695659~hmac=4029cb8a7fb302cb0b811f2d3f715f42" width="30">
 <img src="https://www.flaticon.com/svg/vstatic/svg/919/919828.svg?token=exp=1610696260~hmac=7cd91cc5a6f6578291a071e296f75cce" width="30">
@@ -31,9 +32,9 @@ Here are some ideas to get you started:
 </p>
 
 
-## How to reach me 📫
-📧E-mail : shinmj1207@gmail.com
-📝Blog : http://para-selene.tistory.com/
+### How to reach me 📫
+* 📧E-mail : shinmj1207@gmail.com
+* 📝Blog : http://para-selene.tistory.com/
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShinMyeongJi)](https://github.com/anuraghazra/github-readme-stats)
