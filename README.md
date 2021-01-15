@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 ## I'm a Back-end Developer 👩‍💻
 🔭 I’m currently working on [PCN](http://uithink.pcninc.co.kr:8082/), in Korea.
-
 🌱 I'm currently learning AWS, Node.js, Android and of course Java improvements.
 
 
@@ -34,7 +33,6 @@ Here are some ideas to get you started:
 
 ## How to reach me 📫
 📧E-mail : shinmj1207@gmail.com
-
 📝Blog : http://para-selene.tistory.com/
 
 
