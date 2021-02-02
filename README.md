@@ -22,13 +22,14 @@ Here are some ideas to get you started:
 
 ### Languae and Tools ⛏
 <p>
-<img src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1610695659~hmac=4029cb8a7fb302cb0b811f2d3f715f42" width="30">
-<img src="https://www.flaticon.com/svg/vstatic/svg/919/919828.svg?token=exp=1610696260~hmac=7cd91cc5a6f6578291a071e296f75cce" width="30">
-<img src="https://www.flaticon.com/svg/vstatic/svg/919/919827.svg?token=exp=1610696312~hmac=64a0fbcda02eccb2241cdfbe4682a607" width="30">
-<img src="https://www.flaticon.com/svg/vstatic/svg/919/919826.svg?token=exp=1610696346~hmac=c650660b977925f6e157e4b86575ccc6" width="30">
-<img src="https://www.flaticon.com/svg/vstatic/svg/919/919836.svg?token=exp=1610696494~hmac=9263a05cbbe66dbe252c703caca19565" width="30">
+<img src="https://img.stackshare.io/service/995/K85ZWV2F.png" width="30">
+<img src="https://img.stackshare.io/service/1447/AyreX9yf.jpeg" width="30">
+<img src="https://img.stackshare.io/service/2927/nPzvMuo2_400x400.png" width="30">
+<img src="https://img.stackshare.io/service/2538/kEpgHiC9.png" width="30">
+<img src="https://img.stackshare.io/service/6727/css.png" width="30">
+<img src="https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png" width="30">
 <img src="https://cdn.auth0.com/blog/logos/vuejs-logo.png" width="35">
-<img src="https://www.flaticon.com/svg/vstatic/svg/518/518705.svg?token=exp=1610697359~hmac=fa42d2be20b85a198ed6874bb0e47326" width="30">
+
 </p>
 
 
