@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 
 ### Hi, there! I'm MyeongJi
 
-
 ## I'm a Back-end Developer 👩‍💻
-* 🔭 I’m currently working on [PCN](http://uithink.pcninc.co.kr:8082/), in Korea.
+* 🔭 I’m currently working on , <!-- [PCN](http://uithink.pcninc.co.kr:8082/) --> in Korea.
 * 🌱 I'm currently learning AWS, Node.js, Android and of course Java improvements.
 
 
