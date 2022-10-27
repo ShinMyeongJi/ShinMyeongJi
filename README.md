@@ -1,41 +1,42 @@
 
-<!--**ShinMyeongJi/ShinMyeongJi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Hi, there! I'm MyeongJi
-
-## I'm a Back-end Developer 👩‍💻
-* 🔭 I’m currently working on , <!-- [PCN](http://uithink.pcninc.co.kr:8082/) --> in Korea.
-* 🌱 I'm currently learning AWS, Node.js, Android and of course Java improvements.
+<div align=center> 
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Hack&pause=1000&color=0D2C3A&background=FFF7FD00&center=true&vCenter=true&width=435&lines=Backend+Developer%2C+ShinMyeongJi)](https://git.io/typing-svg)
 
 
-### Languae and Tools ⛏
-<p>
-<img src="https://img.stackshare.io/service/995/K85ZWV2F.png" width="30">
-<img src="https://img.stackshare.io/service/1447/AyreX9yf.jpeg" width="30">
-<img src="https://img.stackshare.io/service/2927/nPzvMuo2_400x400.png" width="30">
-<img src="https://img.stackshare.io/service/2538/kEpgHiC9.png" width="30">
-<img src="https://img.stackshare.io/service/6727/css.png" width="30">
-<img src="https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png" width="30">
-<img src="https://cdn.auth0.com/blog/logos/vuejs-logo.png" width="35">
-
-</p>
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 
 
-### How to reach me 📫
-* 📧E-mail : shinmj1207@gmail.com
-* 📝Blog : http://para-selene.tistory.com/
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/postgresql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
+<img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=green">
+<img src="https://img.shields.io/badge/logstash-005571?style=for-the-badge&logo=logstash&logoColor=yellow">
+  
+<img src="https://img.shields.io/badge/vue.js-0769AD?style=for-the-badge&logo=vue.js&logoColor=white">
+
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=yellow">
+<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
 
+<br/>
+</div>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ShinMyeongJi&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align=center> 
+  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShinMyeongJi)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+  
+  
+
+## How to reach me 📫
+* 📧E-mail : shinmj1207@gmail.com
+* 📝Blog : [http://para-selene.tistory.com/](https://velog.io/@shinmj1207)
 
