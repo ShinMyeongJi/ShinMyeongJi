@@ -36,5 +36,5 @@
 
 ## How to reach me 📫
 * 📧E-mail : shinmj1207@gmail.com
-* 📝Blog : [http://para-selene.tistory.com/](https://velog.io/@shinmj1207)
+* 📝Blog : https://velog.io/@shinmj1207
 
